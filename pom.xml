@@ -4,8 +4,8 @@
     <groupId>net.novogrodsky</groupId>
     <artifactId>unoMavenExample</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <name>unoMavenExample</name>
+    <version>0.01-SNAPSHOT</version>
+    <name>ShinnyZipCodeSorting</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
