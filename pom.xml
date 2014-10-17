@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.novogrodsky</groupId>
-    <artifactId>unoMavenExample</artifactId>
+    <artifactId>ShinnyZipCodeSorting</artifactId>
     <packaging>jar</packaging>
     <version>0.01-SNAPSHOT</version>
     <name>ShinnyZipCodeSorting</name>
